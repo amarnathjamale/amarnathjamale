@@ -119,6 +119,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DevOps in My Daily Life](https://medium.com/@amarnathjamale/devops-in-my-daily-life-eb6c8e47e80d?source=rss-6803cab610d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@amarnathjamale)
