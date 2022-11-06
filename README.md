@@ -95,7 +95,7 @@
 <img align="left" title="Vim" alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 
 <img align="left" title="Linux" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" title="Red Hat" alt="Red Hat" width="30px" src="./img/Red-Hat.svg" style="padding-right:10px; margin-top:15px" />
+<img align="left" title="Red Hat" alt="Red Hat" width="30px" src="./img/Red-Hat.svg" style="padding-right:10px; margin-top:5px" />
 <img align="left" title="Windows" alt="Windows" width="30px" src="./img/windows.ico" style="padding-right:10px;" />
 <img align="left" title="Oracle Solaris" alt="Oracle Solaris" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
 <img align="left" title="Fedora" alt="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="padding-right:10px;" />
