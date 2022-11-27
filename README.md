@@ -130,15 +130,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
-2. ⬆️ Pushed 5 commit(s) to [amarnathjamale/ansible-fqcn-converter](https://github.com/amarnathjamale/ansible-fqcn-converter)
-3. ⭐ Starred [HewlettPackard/monkeyble](https://github.com/HewlettPackard/monkeyble)
-4. 🔱 Forked [amarnathjamale/ansible-fqcn-converter](https://github.com/amarnathjamale/ansible-fqcn-converter) from [zerwes/ansible-fqcn-converter](https://github.com/zerwes/ansible-fqcn-converter)
-5. ⭐ Starred [shalldie/vscode-background](https://github.com/shalldie/vscode-background)
+1. 🔱 Forked [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io) from [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
+3. ⬆️ Pushed 5 commit(s) to [amarnathjamale/ansible-fqcn-converter](https://github.com/amarnathjamale/ansible-fqcn-converter)
+4. ⭐ Starred [HewlettPackard/monkeyble](https://github.com/HewlettPackard/monkeyble)
+5. 🔱 Forked [amarnathjamale/ansible-fqcn-converter](https://github.com/amarnathjamale/ansible-fqcn-converter) from [zerwes/ansible-fqcn-converter](https://github.com/zerwes/ansible-fqcn-converter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 27th, 2022, 2:10:17 PM
+Last Updated: Sunday, November 27th, 2022, 2:34:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
