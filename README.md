@@ -130,15 +130,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [amarnathjamale/ansible-for-devops](https://github.com/amarnathjamale/ansible-for-devops)
-2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
-3. ⬆️ Pushed 3 commit(s) to [amarnathjamale/ansible-fqcn-converter](https://github.com/amarnathjamale/ansible-fqcn-converter)
-4. 📔 Created new repository [amarnathjamale/ansible-dev-setup](https://github.com/amarnathjamale/ansible-dev-setup)
-5. 🔱 Forked [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io) from [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio)
+1. ⭐ Starred [amarnathjamale/amarnathjamale](https://github.com/amarnathjamale/amarnathjamale)
+2. ⬆️ Pushed 6 commit(s) to [amarnathjamale/ansible-for-devops](https://github.com/amarnathjamale/ansible-for-devops)
+3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
+4. ⬆️ Pushed 3 commit(s) to [amarnathjamale/ansible-fqcn-converter](https://github.com/amarnathjamale/ansible-fqcn-converter)
+5. 📔 Created new repository [amarnathjamale/ansible-dev-setup](https://github.com/amarnathjamale/ansible-dev-setup)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 17th, 2022, 10:09:31 PM
+Last Updated: Saturday, December 17th, 2022, 10:34:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
