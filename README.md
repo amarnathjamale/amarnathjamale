@@ -130,15 +130,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-2. ⭐ Starred [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win)
-3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
-4. 🔱 Forked [amarnathjamale/Portfolio](https://github.com/amarnathjamale/Portfolio) from [hhhrrrttt222111/developer-portfolio](https://github.com/hhhrrrttt222111/developer-portfolio)
-5. 📔 Created new repository [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+1. ⬆️ Pushed 23 commit(s) to [amarnathjamale/infra](https://github.com/amarnathjamale/infra)
+2. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+3. ⭐ Starred [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win)
+4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
+5. 🔱 Forked [amarnathjamale/Portfolio](https://github.com/amarnathjamale/Portfolio) from [hhhrrrttt222111/developer-portfolio](https://github.com/hhhrrrttt222111/developer-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 29th, 2022, 5:09:59 PM
+Last Updated: Thursday, December 29th, 2022, 5:34:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
