@@ -130,15 +130,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 23 commit(s) to [amarnathjamale/infra](https://github.com/amarnathjamale/infra)
-2. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-3. ⭐ Starred [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win)
-4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
-5. 🔱 Forked [amarnathjamale/Portfolio](https://github.com/amarnathjamale/Portfolio) from [hhhrrrttt222111/developer-portfolio](https://github.com/hhhrrrttt222111/developer-portfolio)
+1. 📔 Created new repository [amarnathjamale/portfolio-website](https://github.com/amarnathjamale/portfolio-website)
+2. ⬆️ Pushed 23 commit(s) to [amarnathjamale/infra](https://github.com/amarnathjamale/infra)
+3. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+4. ⭐ Starred [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 29th, 2022, 6:36:57 PM
+Last Updated: Thursday, December 29th, 2022, 7:08:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
