@@ -131,14 +131,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-2. 📔 Created new repository [amarnathjamale/portfolio-website](https://github.com/amarnathjamale/portfolio-website)
-3. ⬆️ Pushed 23 commit(s) to [amarnathjamale/infra](https://github.com/amarnathjamale/infra)
-4. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-5. ⭐ Starred [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win)
+2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+3. 📔 Created new repository [amarnathjamale/portfolio-website](https://github.com/amarnathjamale/portfolio-website)
+4. ⬆️ Pushed 23 commit(s) to [amarnathjamale/infra](https://github.com/amarnathjamale/infra)
+5. ⭐ Starred [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 31st, 2022, 8:34:44 PM
+Last Updated: Saturday, December 31st, 2022, 9:09:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
