@@ -134,11 +134,11 @@
 2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-5. 📔 Created new repository [amarnathjamale/portfolio-website](https://github.com/amarnathjamale/portfolio-website)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 1st, 2023, 3:34:26 PM
+Last Updated: Sunday, January 1st, 2023, 4:14:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
