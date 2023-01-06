@@ -134,11 +134,11 @@
 2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-5. ⬆️ Pushed 2 commit(s) to [amarnathjamale/homeinfra](https://github.com/amarnathjamale/homeinfra)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 6th, 2023, 12:53:49 PM
+Last Updated: Friday, January 6th, 2023, 1:17:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
