@@ -53,6 +53,8 @@
 <img align="left" title="Markdown" alt="Markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 <img align="left" title="HTML5" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" title="CSS3" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" title="jQuery" alt="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
 <img align="left" title="Perl" alt="Perl" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" style="padding-right:10px;" />
 
 
