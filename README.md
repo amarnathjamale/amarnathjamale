@@ -148,10 +148,10 @@ Last Updated: Wednesday, February 8th, 2023, 11:35:00 AM
 <details>
   <summary>:zap: GitHub Stats</summary>
  <a href="https://github.com/amarnathjamale#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarnathjamale&show_icons=true&theme=codeSTACKr#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarnathjamale&count_private=true&show_icons=true&theme=codeSTACKr#gh-dark-mode-only" alt="My GitHub Stats" />
  </a>
  <a href="https://github.com/amarnathjamale#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarnathjamale&show_icons=true&theme=flag-india#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarnathjamale&count_private=true&show_icons=true&theme=flag-india#gh-light-mode-only" alt="My GitHub Stats" />
  </a>
 </details>
 
