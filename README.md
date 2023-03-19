@@ -30,7 +30,7 @@
 
 
 
-
+<br />
 <br />
 
 ##### Red Hat
@@ -43,6 +43,7 @@
 <img align="left" title="Red Hat Identity Management" alt="Red Hat Identity Management" width="30px" src="./img/Red-Hat-IDM.png" style="padding-right:10px;" />
 <img align="left" title="Red Hat Insights" alt="Red Hat Insights" width="30px" src="./img/Red-Hat-Insights.png" style="padding-right:10px;margin-top:3px" />
 
+<br />
 <br />
 
 #### Languages
@@ -59,6 +60,7 @@
 
 
 <br />
+<br />
 
 #### DevOps
 
@@ -72,6 +74,7 @@
 <img align="left" title="k3s" alt="k3s" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original.svg" style="padding-right:10px;" />
 
 
+<br />
 <br />
 
 #### Tools
