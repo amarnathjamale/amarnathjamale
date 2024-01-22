@@ -135,11 +135,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale](https://github.com/amarnathjamale/amarnathjamale)
+1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale](https://github.com/amarnathjamale/amarnathjamale)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 22nd, 2024, 10:10:00 PM
+Last Updated: Monday, January 22nd, 2024, 10:34:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
