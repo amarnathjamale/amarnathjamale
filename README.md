@@ -135,15 +135,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
-2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-3. 📔 Created new repository [amarnathjamale/Random_Playbooks](https://github.com/amarnathjamale/Random_Playbooks)
-4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale](https://github.com/amarnathjamale/amarnathjamale)
+1. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+2. ⭐ Starred [rdavydov/Twitch-Channel-Points-Miner-v2](https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2)
+3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+4. 📔 Created new repository [amarnathjamale/Random_Playbooks](https://github.com/amarnathjamale/Random_Playbooks)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 22nd, 2024, 3:34:44 AM
+Last Updated: Friday, March 22nd, 2024, 4:12:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
