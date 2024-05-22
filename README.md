@@ -137,13 +137,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/ansible-dev-setup](https://github.com/amarnathjamale/ansible-dev-setup)
-4. ⭐ Starred [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
-5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/Random_Playbooks](https://github.com/amarnathjamale/Random_Playbooks)
+3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/ansible-dev-setup](https://github.com/amarnathjamale/ansible-dev-setup)
+5. ⭐ Starred [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 22nd, 2024, 10:34:00 PM
+Last Updated: Wednesday, May 22nd, 2024, 11:13:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
