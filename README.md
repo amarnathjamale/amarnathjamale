@@ -135,15 +135,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices)
-2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/learning_go](https://github.com/amarnathjamale/learning_go)
+2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/learning_go](https://github.com/amarnathjamale/learning_go)
+3. ⭐ Starred [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices)
 4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/ansible-dev-setup](https://github.com/amarnathjamale/ansible-dev-setup)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 12th, 2024, 5:34:47 PM
+Last Updated: Friday, July 12th, 2024, 6:16:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
