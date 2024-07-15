@@ -135,15 +135,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
-2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/learning_go](https://github.com/amarnathjamale/learning_go)
+1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/mastering_go](https://github.com/amarnathjamale/mastering_go)
+2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
 3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/learning_go](https://github.com/amarnathjamale/learning_go)
 4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/learning_go](https://github.com/amarnathjamale/learning_go)
-5. ⭐ Starred [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/learning_go](https://github.com/amarnathjamale/learning_go)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 15th, 2024, 3:36:13 PM
+Last Updated: Monday, July 15th, 2024, 4:14:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
