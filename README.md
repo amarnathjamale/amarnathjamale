@@ -139,11 +139,11 @@
 2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/mastering_go](https://github.com/amarnathjamale/mastering_go)
 3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/mastering_go](https://github.com/amarnathjamale/mastering_go)
 4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/mastering_go](https://github.com/amarnathjamale/mastering_go)
-5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/mastering_go](https://github.com/amarnathjamale/mastering_go)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 25th, 2024, 8:16:07 AM
+Last Updated: Thursday, July 25th, 2024, 8:37:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
