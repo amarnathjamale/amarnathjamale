@@ -135,15 +135,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
-2. ⬆️ Pushed 1 commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
-3. 📔 Created new repository [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
-4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/Go_DevOps](https://github.com/amarnathjamale/Go_DevOps)
-5. ⬆️ Pushed 1 commit(s) to [amarnathjamale/amarnathjamale.github.io](https://github.com/amarnathjamale/amarnathjamale.github.io)
+1. ⬆️ Pushed 1 commit(s) to [amarnathjamale/Mastering_Terraform](https://github.com/amarnathjamale/Mastering_Terraform)
+2. 📔 Created new repository [amarnathjamale/Mastering_Terraform](https://github.com/amarnathjamale/Mastering_Terraform)
+3. ⬆️ Pushed 1 commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
+4. ⬆️ Pushed 1 commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
+5. 📔 Created new repository [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 28th, 2024, 1:17:52 PM
+Last Updated: Wednesday, August 28th, 2024, 1:35:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
