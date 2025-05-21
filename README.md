@@ -135,11 +135,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#713](https://github.com/ansible/instruqt/issues/713) in [ansible/instruqt](https://github.com/ansible/instruqt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 21st, 2025, 1:16:39 AM
+Last Updated: Wednesday, May 21st, 2025, 2:55:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
