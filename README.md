@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on gaining expertise on Ansible, Kubernetes, Docker and other DevOps Tools.
 - 🌱 I’m currently learning Norwegians.
-- 🥅 2024 Goals: Work out more. So far, not going well 🤣
+- 🥅 2026 Goals: Work out more. So far, not going well 🤣
 - ⚡ Fun fact: I love animes and read lots of comics.
 
 
