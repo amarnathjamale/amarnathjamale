@@ -135,15 +135,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [amarnathjamale/amarnathjamale](https://github.com/amarnathjamale/amarnathjamale)
-2. 🔱 Forked [amarnathjamale/kubernetes-dependency-tracker](https://github.com/amarnathjamale/kubernetes-dependency-tracker) from [TeraSky-OSS/kubernetes-dependency-tracker](https://github.com/TeraSky-OSS/kubernetes-dependency-tracker)
-3. ⬆️ Pushed undefined commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
+1. 🔱 Forked [amarnathjamale/backstage-plugins](https://github.com/amarnathjamale/backstage-plugins) from [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins)
+2. ⬆️ Pushed undefined commit(s) to [amarnathjamale/amarnathjamale](https://github.com/amarnathjamale/amarnathjamale)
+3. 🔱 Forked [amarnathjamale/kubernetes-dependency-tracker](https://github.com/amarnathjamale/kubernetes-dependency-tracker) from [TeraSky-OSS/kubernetes-dependency-tracker](https://github.com/TeraSky-OSS/kubernetes-dependency-tracker)
 4. ⬆️ Pushed undefined commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
 5. ⬆️ Pushed undefined commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 8th, 2026, 9:24:42 AM
+Last Updated: Thursday, January 8th, 2026, 9:48:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
