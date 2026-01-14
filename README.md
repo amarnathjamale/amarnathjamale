@@ -135,15 +135,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [amarnathjamale/backstage-plugins](https://github.com/amarnathjamale/backstage-plugins)
-2. 💪 Opened PR [#130](undefined) in [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins)
-3. ⬆️ Pushed undefined commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
-4. ⬆️ Pushed undefined commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
+1. 💪 Opened PR [#135](undefined) in [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins)
+2. ❗️ Opened issue [#134](https://github.com/TeraSky-OSS/backstage-plugins/issues/134) in [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins)
+3. ⬆️ Pushed undefined commit(s) to [amarnathjamale/backstage-plugins](https://github.com/amarnathjamale/backstage-plugins)
+4. 💪 Opened PR [#130](undefined) in [TeraSky-OSS/backstage-plugins](https://github.com/TeraSky-OSS/backstage-plugins)
 5. ⬆️ Pushed undefined commit(s) to [amarnathjamale/HomeLab](https://github.com/amarnathjamale/HomeLab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 14th, 2026, 9:49:54 AM
+Last Updated: Wednesday, January 14th, 2026, 10:20:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
