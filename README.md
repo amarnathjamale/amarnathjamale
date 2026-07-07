@@ -104,7 +104,13 @@ RHEL/Solaris platform engineering, and compliance as code with OpenSCAP.
 <img align="left" title="Ansible" alt="Ansible" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
 <img align="left" title="Azure DevOps" alt="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/gh/benc-uk/icon-collection/azure-icons/Azure-DevOps.svg" style="padding-right:10px;" />
 <img align="left" title="Kubernetes" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
-<img align="left" title="Backstage" alt="Backstage" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backstage/backstage-original.svg" style="padding-right:10px;" />
+<img align="left" title="Backstage" alt="Backstage" width="30px" src="https://raw.githubusercontent.com/cncf/artwork/main/projects/backstage/icon/color/backstage-icon-color.svg" style="padding-right:10px;" />
+<img align="left" title="Crossplane" alt="Crossplane" width="30px" src="https://raw.githubusercontent.com/cncf/artwork/main/projects/crossplane/icon/color/crossplane-icon-color.svg" style="padding-right:10px;" />
+<img align="left" title="Flux CD" alt="Flux CD" width="30px" src="https://raw.githubusercontent.com/cncf/artwork/main/projects/flux/icon/color/flux-icon-color.svg" style="padding-right:10px;" />
+<img align="left" title="Kyverno" alt="Kyverno" width="30px" src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg" style="padding-right:10px;" />
+<img align="left" title="Istio" alt="Istio" width="30px" src="https://raw.githubusercontent.com/cncf/artwork/main/projects/istio/icon/color/istio-icon-color.svg" style="padding-right:10px;" />
+<img align="left" title="Prometheus" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
+<img align="left" title="Grafana" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" title="Helm" alt="Helm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" style="padding-right:10px;" />
 <img align="left" title="Docker" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" title="Podman" alt="Podman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" style="padding-right:10px;" />
