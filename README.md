@@ -180,11 +180,10 @@ RHEL/Solaris platform engineering, and compliance as code with OpenSCAP.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#303](https://github.com/crossplane-contrib/crossview/issues/303) in [crossplane-contrib/crossview](https://github.com/crossplane-contrib/crossview)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 23rd, 2026, 2:01:05 PM
+Last Updated: Friday, October 23rd, 2026, 6:34:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
